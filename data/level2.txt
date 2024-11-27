@@ -1,0 +1,12 @@
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+R           R         R      R        R
+RRRRR        R      R               R
+R   R       RRR        R      R        R
+R   R         R      R               R
+R  R       RRR         R               R
+RRR         R        R               R
+R           R         R         R     R
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+R      R                            R
+R                     R             .
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
